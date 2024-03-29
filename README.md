@@ -5,6 +5,9 @@
   <a id="description"></a>
   ## Description
   Created a database and assigned the relationships between the models and also added routes to get, create, update, and delete from the database
+  ## Video Link
+  https://drive.google.com/file/d/1-KqOZ_ZmSlve_GPxQCXKZzd_EnrLOyxE/view?usp=drive_link
+  
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
