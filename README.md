@@ -9,7 +9,6 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -20,9 +19,6 @@
   <a id="usage"></a>
   ## Usage
   Create schema from MYSQL shell then run the seeds. When previous steps are done run the server file in terminal
-  <a id="license"></a>
-  ## License
-  Check license file for license info
   <a id="contributing"></a>
   ## Contributing
   N/A
